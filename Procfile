@@ -1,1 +1,1 @@
-web: python poketest.py
+web: gunicorn poketest:app
