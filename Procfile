@@ -1,1 +1,1 @@
-web python3 poketest.py
+web: python3 poketest.py
